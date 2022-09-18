@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1663325654 source:d:\coding\c++\oops\snake game\src\setup.cpp
+	"SetUp.h"
+
+1663339520 d:\coding\c++\oops\snake game\include\setup.h
+	<bits/stdc++.h>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
+1663350303 source:d:\coding\c++\oops\snake game\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	"SetUp.h"
+	"Logic.h"
+
+1663325147 d:\coding\c++\oops\snake game\include\draw.h
+	<bits/stdc++.h>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
+1663322416 source:d:\coding\c++\oops\snake game\src\draw.cpp
+	"Draw.h"
+
+1663339114 source:d:\coding\c++\oops\snake game\src\input.cpp
+	"Input.h"
+
+1663339271 d:\coding\c++\oops\snake game\include\input.h
+	<bits/stdc++.h>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
+1663350358 d:\coding\c++\oops\snake game\include\logic.h
+	<bits/stdc++.h>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
+1663350438 source:d:\coding\c++\oops\snake game\src\logic.cpp
+	"Logic.h"
+
